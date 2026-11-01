@@ -19,3 +19,10 @@ Picked for a Next.js + Tailwind marketing landing page.
 
 Claude Code picks these up automatically from `.claude/agents/`. Ask for one by name, for example
 "use the SEO Specialist agent to audit pages/index.js".
+
+## Plugins
+
+`.claude/settings.json` enables the [HyperFrames](https://github.com/heygen-com/hyperframes) plugin (HeyGen, Apache-2.0).
+It renders MP4 video from HTML/CSS animations: promo clips, hero videos, short ads.
+Claude Code installs it when you open and trust this folder. Use it with `/hyperframes:hyperframes`.
+Rendering needs Node 22+, ffmpeg and Chromium on the machine that runs it.
