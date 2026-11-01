@@ -1,6 +1,6 @@
 # Claude Code subagents
 
-Curated from [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) (MIT, commit `b37b5bb`), see `LICENSE-agency-agents`.
+Curated from [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) (MIT, commit `b37b5bb`), see `agents/LICENSE-agency-agents`.
 Picked for a Next.js + Tailwind marketing landing page.
 
 | Agent | Use for |
